@@ -1,5 +1,5 @@
 # Termux Scripts Collection
-Berisi script bash keren buat Termux!
+Berisi scripting keren buat Termux!
 # 📁 Dokumentasi Belajar Scripting Bash via Termux
 
 Ini adalah dokumentasi hasil belajar scripting bash saya lewat **Termux dari HP kentang** 😭👊  

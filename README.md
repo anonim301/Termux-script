@@ -1,6 +1,7 @@
 # 🛠️ Bash Cyber Tools
 
-Selamat datang di koleksi tools bash sederhana yang saya buat sebagai pemula di bidang Cybersecurity. Semua script ini saya jalankan hanya menggunakan HP dan Termux, sebagai bagian dari proses belajar saya.Dan ada hasil latihan scripting saya setiap hari disini!. 
+Semua script ini saya jalankan hanya menggunakan HP dan Termux, sebagai bagian dari proses belajar saya.Di repo ini juga terdapat hasil latihan scripting saya yang saya kerjakan setiap hari.
+ 
 
 ## 📁 Daftar Tools
 

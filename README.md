@@ -15,14 +15,14 @@ Tools sederhana untuk:
 ### 🔹 [cyberscan_V1.sh](tools/cyberscan.sh)
 cyberscan_V1.sh — Upgrade from cyberscan:
 
--Validates input to ensure target and ports are not empty
--Automatically generates timestamped log filenames to avoid overwriting
+-Validates input to ensure target
+and ports are not empty
+-Automatically generates timestamped log filenames to avoid overwritin
 -Adds colored output (green for success, red for errors) for clarity
 -Interactive prompt to view scan results using less
 -Clear error messages when target is unreachable
 
 This upgrade makes the tool more reliable, user-friendly, and ready for practical cybersecurity use.
-
 
 ## 📌 Catatan Pribadi
 

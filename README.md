@@ -1,32 +1,58 @@
-# 🛠️ Bash Cyber Tools
+🛠️ Bash Cyber Tools
 
-Semua script ini saya jalankan hanya menggunakan HP dan Termux, sebagai bagian dari proses belajar saya.Di repo ini juga terdapat hasil latihan scripting saya yang saya kerjakan setiap hari.
- 
+All scripts in this repository were developed and executed entirely using Termux on a mobile phone as part of my self-learning journey in cybersecurity. This repo also contains my daily Bash scripting practice exercises, which I continuously update and improve.
 
-## 📁 Daftar Tools
 
-### 🔹 [cyberscan.sh](tools/cyberscan.sh)
-Tools sederhana untuk:
-- Mengecek apakah target hidup dengan `ping`
-- Melakukan port scan dengan `nmap`
-- Menyimpan hasil ke file log
-- Menampilkan hasil scan secara langsung
+---
 
-### 🔹 [cyberscan_V1.sh](tools/cyberscan.sh)
-cyberscan_V1.sh — Upgrade from cyberscan:
+📁 Tools List
 
--Validates input to ensure target
-and ports are not empty
--Automatically generates timestamped log filenames to avoid overwritin
--Adds colored output (green for success, red for errors) for clarity
--Interactive prompt to view scan results using less
--Clear error messages when target is unreachable
+🔹 cyberscan.sh
 
-This upgrade makes the tool more reliable, user-friendly, and ready for practical cybersecurity use.
+A simple network reconnaissance tool that can:
 
-## 📌 Catatan Pribadi
+Check if a target is alive using ping
 
-Saya belajar scripting bash untuk mendalami cybersecurity dari dasar. Tools ini dibuat sebagai latihan harian, dan akan saya kembangkan seiring berjalannya waktu.
+Perform a basic port scan with nmap
 
-## 🪪 Lisensi
-MIT License (bebas digunakan, diedit, disebarkan)
+Save the results to a log file
+
+Display the scan output in real-time
+
+
+
+---
+
+🔹 cyberscan_V1.sh
+
+An enhanced version of cyberscan.sh with additional features:
+
+Validates user input to ensure the target and port fields are not empty
+
+Automatically generates timestamped log filenames to prevent overwriting
+
+Colored output (green for success, red for errors) for better readability
+
+Interactive prompt to view scan results using less
+
+Clear error messages when the target is unreachable
+
+
+This upgraded version is more robust, user-friendly, and practical for real-world cybersecurity learning.
+
+
+---
+
+📌 Personal Notes
+
+I’m learning Bash scripting as a foundation for cybersecurity. These tools are part of my daily practice and will be improved and expanded over time as my skills grow.
+
+
+---
+
+🪪 License
+
+MIT License — Free to use, modify, and distribute.
+
+
+---

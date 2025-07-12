@@ -25,21 +25,38 @@ Display the scan output in real-time
 
 🔹 cyberscan_V1.sh
 
-An enhanced version of cyberscan.sh with additional features:
+*An enhanced version of cyberscan.sh with these key improvements:
 
-Validates user input to ensure the target and port fields are not empty
+*Validates user input to ensure target and port fields are not empty
 
-Automatically generates timestamped log filenames to prevent overwriting
+*Automatically generates timestamped log filenames to prevent overwriting
 
-Colored output (green for success, red for errors) for better readability
+*Colored output (green for success, red for errors) for better readability
 
-Interactive prompt to view scan results using less
+*Interactive prompt to view scan results using less
 
-Clear error messages when the target is unreachable
+*Clear error messages when the target is unreachable
+
+---
+
+🔹 cyberscan_V2.sh
+
+*A lightweight, interactive Bash script for network scanning using Nmap, optimized for Termux (Android) with no root required.
+
+*Multiple scan modes: custom ports, top 1000, or full scan (1–65535)
+
+*Input validation and automatic connectivity checks
+
+*Service version detection (-sV)
+
+*Logs saved with timestamps in a dedicated logs/ folder
+
+*Highlights open ports in green for easy reading
+
+*Interactive prompt to view full scan results
 
 
-This upgraded version is more robust, user-friendly, and practical for real-world cybersecurity learning.
-
+*Designed for smooth use on Android Termux without root access.
 
 ---
 

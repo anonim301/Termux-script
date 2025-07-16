@@ -1,23 +1,23 @@
+---
+
 🛠️ Bash Cyber Tools
 
-All scripts in this repository were developed and executed entirely using Termux on a mobile phone as part of my self-learning journey in cybersecurity. This repo also contains my daily Bash scripting practice exercises, which I continuously update and improve.
+All scripts in this repo were built and tested entirely in Termux (Android) as part of my self-learning journey in cybersecurity and Bash scripting. I update these tools regularly as my skills grow.
 
 
 ---
 
-📁 Tools List
+📁 Tools Overview
 
 🔹 cyberscan.sh
 
-A simple network reconnaissance tool that can:
+Basic Nmap-based port scanner with:
 
-Check if a target is alive using ping
+Ping check
 
-Perform a basic port scan with nmap
+Simple port scan
 
-Save the results to a log file
-
-Display the scan output in real-time
+Realtime output + log saving
 
 
 
@@ -25,51 +25,68 @@ Display the scan output in real-time
 
 🔹 cyberscan_V1.sh
 
-*An enhanced version of cyberscan.sh with these key improvements:
+Enhanced version with:
 
-*Validates user input to ensure target and port fields are not empty
+Input validation (target/port)
 
-*Automatically generates timestamped log filenames to prevent overwriting
+Timestamped log filenames
 
-*Colored output (green for success, red for errors) for better readability
+Colored terminal output (✅ / ❌)
 
-*Interactive prompt to view scan results using less
+View scan results via less
 
-*Clear error messages when the target is unreachable
+
 
 ---
 
 🔹 cyberscan_V2.sh
 
-*A lightweight, interactive Bash script for network scanning using Nmap, optimized for Termux (Android) with no root required.
+Fully interactive network scanner:
 
-*Multiple scan modes: custom ports, top 1000, or full scan (1–65535)
+Scan modes: custom, top 1000, full
 
-*Input validation and automatic connectivity checks
+Auto ping & input checks
 
-*Service version detection (-sV)
+Service detection (-sV)
 
-*Logs saved with timestamps in a dedicated logs/ folder
+Logs in /logs folder
 
-*Highlights open ports in green for easy reading
-
-*Interactive prompt to view full scan results
+Open ports shown in green
 
 
-*Designed for smooth use on Android Termux without root access.
 
 ---
 
-📌 Personal Notes
+🔹 cyberscan_V3.sh
 
-I’m learning Bash scripting as a foundation for cybersecurity. These tools are part of my daily practice and will be improved and expanded over time as my skills grow.
+Major upgrade with:
+
+Regex-based IP/domain validation
+
+Optional scan continuation if ping fails (Cloudflare-friendly)
+
+Optional extended scan (-sC)
+
+Interactive prompts
+
+Spinner (fake loading)
+
+Figlet + lolcat banner
+
+
+
+---
+
+📌 Notes
+
+This is my practice ground for learning Bash + CyberSec basics. All tools are designed for Termux (no root) and mobile-friendly.
 
 
 ---
 
 🪪 License
 
-MIT License — Free to use, modify, and distribute.
-
+MIT License — free to use, modify, and share.
 
 ---
+

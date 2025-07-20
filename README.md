@@ -74,6 +74,15 @@ Spinner (fake loading)
 Figlet + lolcat banner
 
 
+• cyberscan_V4.sh
+focused on improving usability and automation for terminal-based network reconnaissance. 
+- 📁 Multi-target scan support from file input
+- 🔍 Input validation (IP/domain format & file existence)
+- 🔄 Spinner animation for live scan feedback
+- 🧠 Optional `-sC` advanced scan mode
+- 🗂️ Unique log files with timestamps
+
+Perfect for hands-on cybersecurity learners using Termux or Linux environments.
 
 ---
 

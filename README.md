@@ -82,6 +82,13 @@ focused on improving usability and automation for terminal-based network reconna
 - 🧠 Optional `-sC` advanced scan mode
 - 🗂️ Unique log files with timestamps
 
+
+🔹 cyberscan_V5.sh
+  - Multi-target Nmap scanning
+  - Auto summary report generation
+  - Logs zipped automatically
+  - Parallel scanning support
+
 Perfect for hands-on cybersecurity learners using Termux or Linux environments.
 
 ---

@@ -52,6 +52,7 @@ Semua proyek dikembangkan menggunakan:
 - 📲 Android
 - 🧪 [Termux](https://termux.dev)
 - 🐚 Bash shell
+- 🐍 PYTHON
 - 🛠️ CLI tools (nmap, awk, grep, sed)
 
 ---

@@ -80,6 +80,14 @@ Summary reports auto-generated
 
 Logs auto-zipped
 
+🔹 cyberwhois.sh
+WHOIS info lookup
+
+Auto-save result to .txt file
+
+Auto-install whois if missing
+
+Displays short summary in terminal
 
 
 ---

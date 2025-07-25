@@ -4,7 +4,7 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 
 
 ## 📂 Tools yang Tersedia
-1.`whois-checker` → 
+1.`cyber_whois.py` → 
 - Cek domain name, registrar, tanggal buat & expired
 - Tampilkan name server dan email kontak
 - Deteksi error jika domain tidak valid

@@ -1,9 +1,14 @@
 # 🛡️ python-cyber-tools
 
-Kumpulan tools sederhana berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomatisasi**.
+Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomatisasi**.
+
 
 ## 📂 Tools yang Tersedia
-- `whois-checker` → Cek info domain (registrar, NS, email, dll) 
+1.`whois-checker` → 
+- Cek domain name, registrar, tanggal buat & expired
+- Tampilkan name server dan email kontak
+- Deteksi error jika domain tidak valid
+
 
 ## 🚀 Cara Pakai
 ```bash

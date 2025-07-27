@@ -9,6 +9,16 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 - Tampilkan name server dan email kontak
 - Deteksi error jika domain tidak valid
 
+2.'port_scanner.py'
+- Input domain atau IP target
+- Input rentang port (contoh: 20-80)
+- Resolusi domain ke IP
+- Deteksi port terbuka & nama servicenya
+- Output berwarna untuk status port
+- Banner keren dengan `pyfiglet`
+- Multithread (lebih cepat)
+
+
 
 ## 🚀 Cara Pakai
 ```bash

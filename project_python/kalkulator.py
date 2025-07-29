@@ -9,11 +9,11 @@ def kalkulator():
 	print("7. Pangkat")
 	
 	#input
-	pilihan = input("Masukkan pilihan:"))
+	pilihan = input("Masukkan pilihan:")
 	
-	if pilihan in ["1","2","3","4","5","6","7"]
-		angka1 = input("Masukkan angka pertama")
-		angka2 = input("Masukkan anga kedua")
+	if pilihan in ["1","2","3","4","5","6","7"]:
+		angka1 = float(input("Masukkan angka pertama:"))
+		angka2 = float(input("Masukkan anga kedua:"))
 		
 		if pilihan == "1":
 			print(f"Hasil: {angka1 + angka2}")

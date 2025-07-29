@@ -1,0 +1,1 @@
+# Nmap 7.97 scan initiated Sun Jul 27 18:08:53 2025 as: nmap -p 1-1000 -sV -T4 -oN logs/hasil_google_com_2025-07-27_18-08-52.txt google.com

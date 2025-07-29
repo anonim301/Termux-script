@@ -1,41 +1,13 @@
-# 🧪 Cybersecurity Learning Lab
+# 🛡️ Cybersecurity & Coding Playground by [ANONIM301]
 
-Welcome to my personal lab for learning cybersecurity, ethical hacking, and scripting!  
-Here I build tools, run experiments, and document my progress — all directly from Android using Termux.
+Selamat datang di repository tempat saya mengasah skill dalam pemrograman Bash & Python, serta membangun berbagai tools untuk cybersecurity & coding umum.
 
----
-
-## 🧰 Tools & Projects
-
-### 🔐 [bash-cyber-tools/](./bash-cyber-tools)
-> A complete collection of Bash-based cybersecurity tools written from scratch.  
-> ✅ Built & tested in **Termux**  
-> ✅ No root required  
-> ✅ Beginner-friendly
-
-Tools included:
-- Port scanners (v1 to v5)
-- Multi-target scanners
-- Auto-logging and reporting
-- Nmap automation
-
-📄 👉 Check full documentation in [`bash-cyber-tools/README.md`](./bash-cyber-tools/README.md)
-
----
-
-### 📚 [latihan-scripting/](./latihan-scripting)
-> Folder khusus untuk latihan, eksperimen, dan eksplorasi scripting.  
-> Semua script ditulis sendiri sebagai bagian dari proses belajar.
-
-Isi folder ini:
-- IDS mini (Intrusion Detection sederhana)
-- Regex parsing log (SSH brute force, IP suspicious, dll)
-- Scripting bash buat automasi kecil
-- Uji coba parsing `.log` file (ngulik `awk`, `grep`, `cut`, dll)
-
-🎯 Cocok untuk yang ingin belajar dari nol dan eksplorasi logika dasar scripting.
-
----
+📂 Struktur Folder:
+- `bash-cyber-tools`: Tools CLI berbasis bash untuk keamanan, monitoring, dan utilitas.
+- `python-cyber-tools`: Tools Python untuk scanning, hashing, automation, dll.
+- `projekt_python/`: Proyek-proyek latihan coding Python (non-cyber).
+- `projekt-bash/`: Proyek latihan Bash scripting.
+- `latihan-scripting/`: Catatan coding harian, debugging, dan eksperimen kode.
 
 ## 🧠 My Goal
 

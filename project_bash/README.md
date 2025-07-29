@@ -1,6 +1,6 @@
 # 🐍 Project Bash — Dari Pemula sampai Mahir
 
-Selamat datang di repositori `project_python` saya! 🎉
+Selamat datang di repositori `project_bash` saya! 🎉
 
 Di sini saya mengumpulkan berbagai project Bash yang saya kerjakan sendiri dari **level dasar (beginner)** hingga **level lanjutan (advanced)** sebagai bagian dari latihan dan portofolio pribadi.
 

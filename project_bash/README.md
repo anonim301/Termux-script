@@ -11,6 +11,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 ## 📚 Isi Folder
 🔷 Level-1 | `kalkulator.sh` | Kalkulator sederhana 6 operasi dasar |
 
+🔷 Level-1 | 'konversi_suhu.sh' | konversi suhu: Celcius,Fahrenheit,Kelvin |
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

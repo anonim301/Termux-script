@@ -1,3 +1,13 @@
+#!/bin/bash
+# ========================================
+# Script      : cyber_whois.py
+# Deskripsi   : mencari informasi domain
+# Penggunaan  : python cyber_whois.py
+# Dibuat oleh : Yanuar
+# Tanggal     : 28-07-2025
+# ========================================
+
+
 import whois
 
 #input domain dari user

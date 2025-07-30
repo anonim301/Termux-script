@@ -1,3 +1,13 @@
+#!/bin/bash
+# ========================================
+# Script      : port_scanner.py
+# Deskripsi   : Port scanner dengan multithread
+# Penggunaan  : python port_scanner.py
+# Dibuat oleh : Yanuar
+# Tanggal     : 28-07-2025
+# ========================================
+
+
 import socket
 import threading
 from pyfiglet import Figlet

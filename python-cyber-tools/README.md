@@ -30,3 +30,13 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 git clone https://github.com/kamu/python-cyber-tools.git
 cd python-cyber-tools/<nama-folder>
 python <nama-script>.py
+
+
+## 📄 Lisensi
+Distribusi tools ini menggunakan MIT License. Lihat file LICENSE untuk detail.
+
+
+## ⚠️ Disclaimer
+Tools ini dibuat untuk tujuan edukasi, pengujian keamanan yang sah, dan otomatisasi yang legal.  
+Penggunaan tools ini untuk aktivitas ilegal atau tanpa izin adalah tanggung jawab pengguna.  
+Pengembang tidak bertanggung jawab atas penyalahgunaan atau konsekuensi yang ditimbulkan.

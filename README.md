@@ -29,8 +29,15 @@ Semua proyek dikembangkan menggunakan:
 
 ---
 
-## 🔖 License
 
-MIT License — bebas digunakan, dibagikan, dan dimodifikasi.
+## 📄 Lisensi
+Distribusi tools ini menggunakan MIT License. Lihat file LICENSE untuk detail.
+
+
+## ⚠️ Disclaimer
+Tools ini dibuat untuk tujuan edukasi, pengujian keamanan yang sah, dan otomatisasi yang legal.  
+Penggunaan tools ini untuk aktivitas ilegal atau tanpa izin adalah tanggung jawab pengguna.  
+Pengembang tidak bertanggung jawab atas penyalahgunaan atau konsekuensi yang ditimbulkan.
+
 
 ---

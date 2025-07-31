@@ -18,6 +18,11 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 - Banner keren dengan `pyfiglet`
 - Multithread (lebih cepat)
 
+3.'port_scanner_v1.py'
+- Validasi input rentang port
+- Tampilkan hasil scan ke terminal & penyimpanan file
+- Penghitungan waktu scanning
+- Handling error ketika resolve IP Domain
 
 
 ## 🚀 Cara Pakai

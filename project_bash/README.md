@@ -13,6 +13,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔷 Level-1 | 'konversi_suhu.sh' | konversi suhu: Celcius,Fahrenheit,Kelvin |
 
+🔷 Level-1 | 'game_tebak_angka.sh' | game tebak angka dengan skor & disimpan dalam file hasilnya |
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

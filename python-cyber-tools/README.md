@@ -9,7 +9,14 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 - Tampilkan name server dan email kontak
 - Deteksi error jika domain tidak valid
 
-2.'port_scanner.py'
+2.cyber_whois_v1.py
+- Handling error lebih kuat (try-except) untuk domain invalid atau data kosong
+- Output lebih rapi dan berwarna menggunakan ANSI escape codes
+- Penambahan fitur penyimpanan hasil ke file .txt
+- Struktur kode lebih modular dan siap diintegrasikan ke tools cyber lain
+- Penggunaan fungsi isinstance() untuk validasi hasil WHOIS
+
+3.'port_scanner.py'
 - Input domain atau IP target
 - Input rentang port (contoh: 20-80)
 - Resolusi domain ke IP
@@ -18,7 +25,7 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 - Banner keren dengan `pyfiglet`
 - Multithread (lebih cepat)
 
-3.'port_scanner_v1.py'
+4.'port_scanner_v1.py'
 - Validasi input rentang port
 - Tampilkan hasil scan ke terminal & penyimpanan file
 - Penghitungan waktu scanning

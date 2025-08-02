@@ -11,6 +11,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 ## 📚 Isi Folder
 🔷 Level-1 | `kalkulator.py` | Kalkulator sederhana 7 operasi dasar |
 
+🔷 Level-1 | 'kalkulator_v1.py' | penambahan simpan hasil perhitungan ke file |
+
 🔷 Level-1 | 'tebak_angka.py' | Game tebak angka+penyimpanan skor/hasil
 
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠

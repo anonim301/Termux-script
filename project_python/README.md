@@ -15,6 +15,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔷 Level-1 | 'tebak_angka.py' | Game tebak angka+penyimpanan skor/hasil
 
+🔷 Level-1 | 'bmi_calculator.py' | program ini menghitung berat badan ideal
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

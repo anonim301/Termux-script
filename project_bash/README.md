@@ -15,6 +15,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔷 Level-1 | 'game_tebak_angka.sh' | game tebak angka dengan skor & disimpan dalam file hasilnya |
 
+🔷 Level-1 | 'alarm.sh' | mengatur alarm berdasarkan menit+bunyi beep saat waktu tercapai  
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

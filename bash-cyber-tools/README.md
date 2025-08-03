@@ -11,85 +11,95 @@ A collection of Bash-based cybersecurity tools built entirely in Termux (Android
 
 🔹 cyberscan.sh
 
-Simple port scanner using Nmap
+- Simple port scanner using Nmap
 
-Ping check + port scan
+- Ping check + port scan
 
-Realtime output + log saving
+- Realtime output + log saving
 
 
 🔹 cyberscan_V1.sh
 
-Improved version with:
+- Improved version with:
 
-Input validation
+- Input validation
 
-Colored terminal output
+- Colored terminal output
 
-Auto-named logs
+- Auto-named logs
 
-View logs with less
+- View logs with less
 
 
 🔹 cyberscan_V2.sh
 
-Interactive scanner:
+- Interactive scanner:
 
-Scan modes: custom / top 1000 / full
+- Scan modes: custom / top 1000 / full
 
-Auto ping + service detection
+- Auto ping + service detection
 
-Logs saved in /logs
+- Logs saved in /logs
 
-Green highlight for open ports
+- Green highlight for open ports
 
 
 🔹 cyberscan_V3.sh
 
-Major UI upgrade:
+- Major UI upgrade:
 
-IP/domain regex validation
+- IP/domain regex validation
 
-Optional scan continuation (for Cloudflare etc)
+- Optional scan continuation (for Cloudflare etc)
 
-Fancy banner + loading spinner
+- Fancy banner + loading spinner
 
-Optional extended scan (-sC)
+- Optional extended scan (-sC)
 
 
 🔹 cyberscan_V4.sh
 
-Focus on usability + automation:
+- Focus on usability + automation:
 
-Multi-target scanning from file
+- Multi-target scanning from file
 
-File and input format check
+- File and input format check
 
-Unique log naming
+- Unique log naming
 
-Optional advanced scan mode
+- Optional advanced scan mode
 
 
 🔹 cyberscan_V5.sh
 
-Latest version (fully automated):
+- Latest version (fully automated):
 
-Multi-target parallel scanning
+- Multi-target parallel scanning
 
-Summary reports auto-generated
+- Summary reports auto-generated
 
-Logs auto-zipped
+- Logs auto-zipped
 
 
 🔹 cyberwhois.sh
 
-WHOIS info lookup
+- WHOIS info lookup
 
-Auto-save result to .txt file
+- Auto-save result to .txt file
 
-Auto-install whois if missing
+- Auto-install whois if missing
 
-Displays short summary in terminal
+- Displays short summary in terminal
+
+🔹 cyberwhois_v1.sh
+- Validate and lookup single or multiple domains from a file.
+
+- Check for internet connection and input formatting.
+
+- Save outputs with timestamped filenames.
+
+- Highlight key WHOIS info like registrar, creation, expiry date, etc.
+
 
 
 ---

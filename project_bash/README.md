@@ -17,6 +17,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔷 Level-1 | 'alarm.sh' | mengatur alarm berdasarkan menit+bunyi beep saat waktu tercapai  
 
+🔶 Level-2 (Menengah) | 'port_scanner.sh' | cek port terbuka dari IP/Host target
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

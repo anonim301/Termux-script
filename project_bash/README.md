@@ -19,6 +19,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔶 Level-2 (Menengah) | 'port_scanner.sh' | cek port terbuka dari IP/Host target
 
+🔶 Level-2 (Menengah-advanced) | 'port_scanner_pro.sh' | scan port dengan nc+multithread
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

@@ -31,6 +31,12 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 - Penghitungan waktu scanning
 - Handling error ketika resolve IP Domain
 
+5.'port_scanner_v2.py'
+- Banner grabbing untuk deteksi layanan secara lebih akurat
+- Cek koneksi internet sebelum scanning
+- Hasil scan bisa diexport ke CSV & JSON
+
+  
 
 ## 🚀 Cara Pakai
 ```bash

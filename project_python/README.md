@@ -17,6 +17,10 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔷 Level-1 | 'bmi_calculator.py' | program ini menghitung berat badan ideal
 
+🔷 Level-1 | 'palindrom_checker.py' | cek apakah sebuah kata/kalimat dibaca dari depan dan belakang tetap sama 
+
+🔶 level-1 | 'todo_list' | App sederhana untuk menambah, melihat, dan menghapus tugas harian
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

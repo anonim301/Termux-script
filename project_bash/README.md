@@ -21,6 +21,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔶 Level-2 (Menengah-advanced) | 'port_scanner_pro.sh' | scan port dengan nc+multithread
 
+🔶 Level-2 (Menengah) | 'auto_backup.sh' | untuk auto backup file/folder
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

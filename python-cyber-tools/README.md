@@ -16,7 +16,13 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 - Struktur kode lebih modular dan siap diintegrasikan ke tools cyber lain
 - Penggunaan fungsi isinstance() untuk validasi hasil WHOIS
 
-3.'port_scanner.py'
+3.cyber_whois_v2.py
+- Cek Koneksi Otomatis — memastikan target domain dapat diakses sebelum eksekusi WHOIS.
+- WHOIS Multi Target — bisa memproses banyak domain sekaligus langsung dari file .txt.
+- Export Data — hasil scan bisa disimpan ke format .json atau .csv untuk analisis lanjutan.
+- Optimasi Kecepatan — pemrosesan lebih cepat berkat threading yang ditingkatkan.
+
+4.'port_scanner.py'
 - Input domain atau IP target
 - Input rentang port (contoh: 20-80)
 - Resolusi domain ke IP
@@ -25,13 +31,13 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 - Banner keren dengan `pyfiglet`
 - Multithread (lebih cepat)
 
-4.'port_scanner_v1.py'
+5.'port_scanner_v1.py'
 - Validasi input rentang port
 - Tampilkan hasil scan ke terminal & penyimpanan file
 - Penghitungan waktu scanning
 - Handling error ketika resolve IP Domain
 
-5.'port_scanner_v2.py'
+6.'port_scanner_v2.py'
 - Banner grabbing untuk deteksi layanan secara lebih akurat
 - Cek koneksi internet sebelum scanning
 - Hasil scan bisa diexport ke CSV & JSON

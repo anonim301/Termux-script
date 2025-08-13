@@ -23,6 +23,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔶 Level-2 (Menengah) | 'auto_backup.sh' | untuk auto backup file/folder
 
+🔶 Level-2 (Menengah) | 'password_generator.sh' | berguna untuk membuat sebuah password yang kuat
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

@@ -19,7 +19,9 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔷 Level-1 | 'palindrom_checker.py' | cek apakah sebuah kata/kalimat dibaca dari depan dan belakang tetap sama 
 
-🔶 level-1 | 'todo_list' | App sederhana untuk menambah, melihat, dan menghapus tugas harian
+🔶 Level-2(Menengah) | 'todo_list' | App sederhana untuk menambah, melihat, dan menghapus tugas harian
+
+🔶 Level-2(Menengah) | 'notes_keeper_cli.py' | App sederhana untuk menulis,melihat dan menghapus catatan.Mirip Todo-list tapi lebih fleksibel
 
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 

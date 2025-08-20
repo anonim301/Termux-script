@@ -42,6 +42,13 @@ Kumpulan tools berbasis Python untuk **cybersecurity**, **OSINT**, dan **otomati
 - Cek koneksi internet sebelum scanning
 - Hasil scan bisa diexport ke CSV & JSON
 
+7.'port_scanner_v3.py'
+- Command-Line Arguments → mendukung penggunaan fleksibel (target, range port, jumlah threads, serta format output dapat dikonfigurasi langsung via CLI).
+
+- Progress Bar dengan Estimasi Waktu → memberikan feedback visual yang interaktif sehingga proses scanning lebih transparan dan informatif.
+
+- Enhanced Service Detection & Banner Grabbing → mampu mengidentifikasi layanan dengan lebih akurat, bahkan jika berjalan di port non-standar, serta menampilkan informasi banner yang lebih lengkap.
+
   
 
 ## 🚀 Cara Pakai

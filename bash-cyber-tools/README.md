@@ -100,6 +100,17 @@ A collection of Bash-based cybersecurity tools built entirely in Termux (Android
 
 - Highlight key WHOIS info like registrar, creation, expiry date, etc.
 
+🔹 port_scanner_pro.sh
+ | script sederhana dan powerfull |
+ - Input bisa berupa 1 host/IP atau file berisi banyak host
+
+- Range port dapat ditentukan (default: 1–1024)
+
+- Threading untuk mempercepat scan (default: 50 concurrent threads)
+
+- Output hasil otomatis tersimpan dalam format CSV per host
+
+- Identifikasi port yang terbuka (OPEN)
 
 
 ---

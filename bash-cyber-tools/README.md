@@ -2,143 +2,150 @@
 
 🛠️ Bash Cyber Tools
 
-A collection of Bash-based cybersecurity tools built entirely in Termux (Android) as part of my self-learning journey in Bash scripting and ethical hacking. Tools are regularly improved as I grow.
+Kumpulan tools cybersecurity berbasis Bash yang dibuat sepenuhnya di Termux (Android) sebagai bagian dari perjalanan belajar mandiri saya dalam scripting Bash dan ethical hacking.
+Tools ini terus dikembangkan seiring bertambahnya pengalaman saya.
 
 
 ---
 
-📁 Tool List
+📁 Daftar Tools
 
 🔹 cyberscan.sh
 
-- Simple port scanner using Nmap
+Port scanner sederhana menggunakan Nmap
 
-- Ping check + port scan
+Cek ping + scan port
 
-- Realtime output + log saving
+Output realtime + hasil otomatis disimpan
 
 
 🔹 cyberscan_V1.sh
 
-- Improved version with:
+Versi yang lebih baik dengan fitur:
 
-- Input validation
+Validasi input
 
-- Colored terminal output
+Output terminal berwarna
 
-- Auto-named logs
+Log otomatis diberi nama sesuai waktu
 
-- View logs with less
+Bisa melihat log dengan less
 
 
 🔹 cyberscan_V2.sh
 
-- Interactive scanner:
+Scanner interaktif:
 
-- Scan modes: custom / top 1000 / full
+Mode scan: custom / top 1000 / full
 
-- Auto ping + service detection
+Auto ping + deteksi service
 
-- Logs saved in /logs
+Log otomatis disimpan di folder /logs
 
-- Green highlight for open ports
+Port terbuka ditandai warna hijau
 
 
 🔹 cyberscan_V3.sh
 
-- Major UI upgrade:
+Upgrade besar pada tampilan:
 
-- IP/domain regex validation
+Validasi IP/domain dengan regex
 
-- Optional scan continuation (for Cloudflare etc)
+Pilihan untuk melanjutkan scan (misalnya Cloudflare)
 
-- Fancy banner + loading spinner
+Banner keren + loading spinner
 
-- Optional extended scan (-sC)
+Opsional scan lanjutan dengan -sC
 
 
 🔹 cyberscan_V4.sh
 
-- Focus on usability + automation:
+Fokus pada kemudahan penggunaan + otomatisasi:
 
-- Multi-target scanning from file
+Multi-target scanning dari file
 
-- File and input format check
+Pengecekan format input dan file
 
-- Unique log naming
+Penamaan log unik
 
-- Optional advanced scan mode
+Mode advanced scan opsional
 
 
 🔹 cyberscan_V5.sh
 
-- Latest version (fully automated):
+Versi terbaru (sepenuhnya otomatis):
 
-- Multi-target parallel scanning
+Multi-target scanning paralel
 
-- Summary reports auto-generated
+Laporan ringkasan dibuat otomatis
 
-- Logs auto-zipped
+Log otomatis dikompres (zip)
 
 
 🔹 cyberwhois.sh
 
-- WHOIS info lookup
+Lookup informasi WHOIS
 
-- Auto-save result to .txt file
+Hasil otomatis disimpan ke file .txt
 
-- Auto-install whois if missing
+Auto-install whois jika belum ada
 
-- Displays short summary in terminal
+Menampilkan ringkasan singkat di terminal
+
 
 🔹 cyberwhois_v1.sh
-- Validate and lookup single or multiple domains from a file.
 
-- Check for internet connection and input formatting.
+Validasi dan lookup 1 domain atau banyak domain dari file
 
-- Save outputs with timestamped filenames.
+Cek koneksi internet + validasi input
 
-- Highlight key WHOIS info like registrar, creation, expiry date, etc.
+Output disimpan dengan nama file berdasarkan timestamp
 
-🔹 port_scanner_pro.sh
- | script sederhana dan powerfull |
- - Input bisa berupa 1 host/IP atau file berisi banyak host
-
-- Range port dapat ditentukan (default: 1–1024)
-
-- Threading untuk mempercepat scan (default: 50 concurrent threads)
-
-- Output hasil otomatis tersimpan dalam format CSV per host
-
-- Identifikasi port yang terbuka (OPEN)
+Highlight info penting WHOIS (registrar, tanggal dibuat, tanggal kedaluwarsa, dll.)
 
 
----
+🔹 port_scanner_pro.sh | script sederhana tapi powerful |
 
-📌 Notes
+Input bisa 1 host/IP atau file berisi banyak host
 
-Mobile-friendly
+Bisa menentukan range port (default: 1–1024)
 
-No root required
+Threading untuk mempercepat scan (default: 50 concurrent threads)
 
-100% built in Termux
+Output hasil otomatis tersimpan dalam format CSV per host
 
-Ideal for beginners in cybersecurity and scripting
+Identifikasi port yang terbuka (OPEN)
 
 
 
 ---
 
+📌 Catatan
 
-## 📄 Lisensi
-Distribusi tools ini menggunakan MIT License. Lihat file LICENSE untuk detail.
+Ramah untuk pengguna mobile
+
+Tidak perlu akses root
+
+100% dibuat di Termux
+
+Cocok untuk pemula dalam cybersecurity dan scripting
 
 
-## ⚠️ Disclaimer
-Tools ini dibuat untuk tujuan edukasi, pengujian keamanan yang sah, dan otomatisasi yang legal.  
-Penggunaan tools ini untuk aktivitas ilegal atau tanpa izin adalah tanggung jawab pengguna.  
-Pengembang tidak bertanggung jawab atas penyalahgunaan atau konsekuensi yang ditimbulkan.
 
+---
+
+📄 Lisensi
+
+Tools ini menggunakan MIT License. Lihat file LICENSE untuk detail lebih lanjut.
+
+
+---
+
+⚠️ Disclaimer
+
+Tools ini dibuat hanya untuk tujuan edukasi, pengujian keamanan legal, dan otomatisasi yang sah.
+Penggunaan untuk aktivitas ilegal atau tanpa izin sepenuhnya menjadi tanggung jawab pengguna.
+Pengembang tidak bertanggung jawab atas penyalahgunaan maupun konsekuensi yang ditimbulkan.
 
 
 ---

@@ -25,6 +25,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔶 Level-2(Menengah) | 'port_scanner.py' |untuk cek port terbuka disebuah target IP/Domain
 
+🔶 Level-2(Menengah) | 'file_organizer.py' | merapikan file otomatis ke folder sesuai ekstensi
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---

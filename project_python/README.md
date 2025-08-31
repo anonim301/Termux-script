@@ -23,6 +23,8 @@ Semua kode ditulis langsung dari **Termux (Android)** tanpa IDE atau laptop — 
 
 🔶 Level-2(Menengah) | 'notes_keeper_cli.py' | App sederhana untuk menulis,melihat dan menghapus catatan.Mirip Todo-list tapi lebih fleksibel
 
+🔶 Level-2(Menengah) | 'port_scanner.py' |untuk cek port terbuka disebuah target IP/Domain
+
 > Daftar ini akan terus bertambah seiring berkembangnya skill saya 🧠
 
 ---
